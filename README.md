@@ -1,6 +1,6 @@
-**# AdventureWork-Sales-Analysis
+****# AdventureWork-Sales-Analysis**
 ___________________________________________________________________________________________________________
-📝 OVERVIEW**
+**📝 OVERVIEW****
 
 Project Background: This report was conducted to build an interactive and dynamic reporting system (Dashboard) in Power BI to analyze sales performance during the 2010–2013 period. The study focuses on deeply evaluating the dual-channel distribution strategy (Internet Sales and Reseller Sales), product structure, customer demographics, and profitability trends, thereby proposing operational optimization solutions.
 
