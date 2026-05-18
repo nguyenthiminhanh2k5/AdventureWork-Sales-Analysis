@@ -33,8 +33,10 @@ Slicer: Channel Filter (Internet / Reseller)
 Donut Chart: Share of Revenue by Channel (Internet vs. Reseller)
 Bar Chart / Column Chart: ($) Total Revenue by Group in Internet Channel
 Tree Map / Regional Bar Chart: ($) Total Revenue by Region in Internet Channel
+
 <img width="1277" height="717" alt="image" src="https://github.com/user-attachments/assets/2ef011e9-f785-47a6-a4f2-3c642d47f898" />
 <img width="1281" height="725" alt="image" src="https://github.com/user-attachments/assets/225c1b9a-de20-4876-a4f5-857239e85db8" />
+
 **🔹 Dashboard 2: AdventureWorks Sales Report - Internet Sales Analysis**
 
 KPI Cards:
@@ -49,7 +51,9 @@ Sum of YearlyIncome
 CommuteDistance
 Tree Map / Regional Bar Chart: Revenue and Profit share by Region & Country (Southwest, Northwest, United Kingdom, Germany, France, Canada, etc.)
 Donut Chart: Internet Sales by Marketing Reason / Other Reason
+
 <img width="1282" height="723" alt="image" src="https://github.com/user-attachments/assets/83b9045c-0a56-4cf1-880e-679f03befa2f" />
+
 **🔹 Dashboard 3: AdventureWorks Sales Report - Reseller Sales Analysis**
 
 KPI Cards:
@@ -64,7 +68,9 @@ Horizontal Bar Chart: Revenue by Category (Bikes, Components, Clothing)
 Donut Chart / Pie Chart: Revenue by Business Type (Warehouse, Value Added Reseller, Specialty Bike Shop)
 Geographical Bar Chart / Tree Map: Revenue by Country (United States, Canada, etc.)
 Line and Stacked Column Chart: Revenue and Profit Margin by Top-6... (Trends over time)
+
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4bcd97fa-c1e3-44c5-b728-6e8f94a745a6" />
+
 ____________________________________________________________________________________________________________
 **📈 KEY INSIGHTS**
 ____________________________________________________________________________________________________________
